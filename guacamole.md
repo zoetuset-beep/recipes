@@ -6,5 +6,6 @@
 ## Instructions
 - Peel the avocado
 - Squeeze lime juice
+- Cut avocado
 
 
